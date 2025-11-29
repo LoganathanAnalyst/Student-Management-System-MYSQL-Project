@@ -1,0 +1,34 @@
+EASY LEVEL QUESTIONS 
+1. Retrieve all student records from the students table. 
+2. Display the names and departments of all students. 
+3. Showonly male students. 
+4. Find students who belong to the CSE department.
+5. Retrieve all marks data. 
+6. Display subjects and marks for studentID=1. 
+7. List all unique subject. 
+8. Count total students. 
+9. Find students aged 20. 10. Display names sorted alphabetically.
+
+MEDIUM LEVEL QUESTIONS 
+1. Retrieve all students with their marks.
+2.Show the average marks of each student.
+3. Find the highest mark in Maths.
+4. List students scoring more than 80 in any subject. 
+5. Count number of subjects per student. 
+6. Display students who took Science.
+7. Show student name, subject, marks sorted by marks. 
+8. Department-wise student count.
+9. Total marks of each student. 
+10. Students scoring below 70.
+
+HARD LEVEL QUESTIONS 
+1. Find topper in each subject.
+2. Find overall topper. 
+3. Students scoring above average in Maths.
+4. Students not taking Science. 
+5. Departments with avg marks > 80. 
+6. Rank students by total marks. 
+7. Students scoring above 90 in Maths & Science.
+8.Pass/fail status with pass=40. 
+9. Students name starting with A or ending with a. 
+10. Students with 2+ subjects above 85.
